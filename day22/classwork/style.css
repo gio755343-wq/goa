@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkgreen;
+}
+
+p {
+    color: black;
+}
+
+img {
+    width: 300px;
+    border: 3px solid green;
+}
